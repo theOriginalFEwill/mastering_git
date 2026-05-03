@@ -1,1 +1,2 @@
-test sentence 1
+test sentence one
+fixed line above and added this sentence
